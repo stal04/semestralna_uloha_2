@@ -18,13 +18,13 @@ Aplikace slouží na podporu činnosti agentury zajišťující odvozy aut a př
 ### Use Case Diagram
 ### Class Diagram
 ### Struktura souborů
-Projektový adresář aplikace má podobu 
+Projektový adresář aplikace má strukturu klasického Maven projektu.
 
 | Adresář | Popis |
 | ------------- | ------------- |
 | kořenový adresář | obsahuje soubor pom.xml a ostatní adresáře |
 | src/main/java | obsahuje kompilovatelné .java soubory |
-| src/main/resources | obsahuje zdroje pro projekt, například .fxml soubor nebo obrázky |
+| src/main/resources | obsahuje pomocné soubory pro projekt, například .fxml soubor nebo obrázky |
 | src/test/java | obsahuje třídy testů |
 | src/test/resources | obsahuje zdroje nezbytné pro testy |
 ### Návrh uživatelského rozhraní
