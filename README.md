@@ -17,7 +17,7 @@ Aplikace slouží na podporu činnosti agentury zajišťující odvozy aut a př
 *
 *
 ### Use Case Diagram
-![Alt text](/https://github.com/kolesko/semestralna_uloha_2/blob/master/UseCase%20Diagram0.jpg "Use Case Diagram")
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/UseCase%20Diagram0.jpg "Use Case Diagram")
 ### Class Diagram
 ### Struktura souborů
 Projektový adresář aplikace má strukturu klasického Maven projektu v kontextu architektury MVC, jazyka Java a frameworku JavaFX.
