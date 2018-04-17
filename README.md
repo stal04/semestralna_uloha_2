@@ -1,3 +1,4 @@
+
 # Tým: Odvez mě 
 ### Seznam členů týmu:
 * Kolesár Matej
@@ -16,6 +17,7 @@ Aplikace slouží na podporu činnosti agentury zajišťující odvozy aut a př
 *
 *
 ### Use Case Diagram
+![Alt text](/semestralna_uloha_2/UseCase Diagram0.pngraw=true "Use Case Diagram")
 ### Class Diagram
 ### Struktura souborů
 Projektový adresář aplikace má strukturu klasického Maven projektu v kontextu architektury MVC, jazyka Java a frameworku JavaFX.
