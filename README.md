@@ -30,4 +30,19 @@ Projektový adresář aplikace má strukturu klasického Maven projektu v kontex
 | src/test/java | obsahuje třídy testů |
 | src/test/resources | obsahuje zdroje nezbytné pro testy |
 ### Návrh uživatelského rozhraní
+
+
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/7FD5FC99-794D-48FA-89E6-B0EC29CF61B8.png "Use Case Diagram")
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/0EE5B609-DAA3-4DAB-8991-9B060AB02CBF.png)
+
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/59E18C07-5293-4E91-81B2-F367704906F4.png)
+
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/C9213C33-B0B7-4278-8C3C-2165C1E98330.png)
+
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/AE63B77E-A909-4505-88BA-7441F4EBB20E.png)
+
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/89CE885C-E851-4006-999B-8AC3581EB973.png)
+
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/ACB2C566-ADB9-4C0D-B381-1003C3248687.png)
+
 ### Konvence
