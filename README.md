@@ -54,10 +54,10 @@ Obrázek 8 Vytvořit poskytovatele odvozu
 ![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/AE63B77E-A909-4505-88BA-7441F4EBB20E.png)
 Obrázek 9 Upravit poskytovatele odvozu, odstranit poskytovatele odvozu
 
-![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/AE63B77E-A909-4505-88BA-7441F4EBB20E.png)C2C76AE9-BC67-4104-952F-63A9C6CE31C2.png	
-Obrázek 10 Vytvořit, upravit, odstranit
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/C2C76AE9-BC67-4104-952F-63A9C6CE31C2.png)
+Obrázek 10 Vytvořit, upravit, odstranit auto
 
-![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/AE63B77E-A909-4505-88BA-7441F4EBB20E.png)C6052128-1579-4411-B1DA-72509B97F6F3.png
-Obrázek 11 Vytvořit, upravit, odstranit
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/C6052128-1579-4411-B1DA-72509B97F6F3.png)
+Obrázek 11 Vytvořit, upravit, odstranit klienta
 
 ### Konvence
