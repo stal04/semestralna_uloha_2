@@ -18,6 +18,8 @@ Aplikace slouží na podporu činnosti agentury zajišťující odvozy aut a př
 *
 ### Use Case Diagram
 ![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/UseCase%20Diagram0.jpg "Use Case Diagram")
+Obrázek 1 Diagram užití
+
 ### Class Diagram
 ### Struktura souborů
 Projektový adresář aplikace má strukturu klasického Maven projektu v kontextu architektury MVC, jazyka Java a frameworku JavaFX.
@@ -40,7 +42,7 @@ Obrázek 4 Úvodní obrazovka pro pracovníka agentury
 ![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/0EE5B609-DAA3-4DAB-8991-9B060AB02CBF.png)
 Obrázek 5 Vytvořit objednávku
 
-![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/7FD5FC99-794D-48FA-89E6-B0EC29CF61B8.png "Use Case Diagram")
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/7FD5FC99-794D-48FA-89E6-B0EC29CF61B8.png)
 Obrázek 6 Změnit objednávku, odstranit objednávku
 
 ![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/C9213C33-B0B7-4278-8C3C-2165C1E98330.png)
@@ -52,7 +54,10 @@ Obrázek 8 Vytvořit poskytovatele odvozu
 ![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/AE63B77E-A909-4505-88BA-7441F4EBB20E.png)
 Obrázek 9 Upravit poskytovatele odvozu, odstranit poskytovatele odvozu
 
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/AE63B77E-A909-4505-88BA-7441F4EBB20E.png)C2C76AE9-BC67-4104-952F-63A9C6CE31C2.png	
+Obrázek 10 Vytvořit, upravit, odstranit
 
-
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/AE63B77E-A909-4505-88BA-7441F4EBB20E.png)C6052128-1579-4411-B1DA-72509B97F6F3.png
+Obrázek 11 Vytvořit, upravit, odstranit
 
 ### Konvence
