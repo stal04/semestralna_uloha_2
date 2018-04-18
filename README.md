@@ -46,7 +46,7 @@ Obrázek 5 Vytvořit objednávku
 Obrázek 6 Změnit objednávku, odstranit objednávku
 
 ![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/C9213C33-B0B7-4278-8C3C-2165C1E98330.png)
-Obrázek 7 Vypsat objednávky pro daného poskytovatele odvozu
+Obrázek 7 Zobrazit daného poskytovatele odvozu
 
 ![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/89CE885C-E851-4006-999B-8AC3581EB973.png)
 Obrázek 8 Vytvořit poskytovatele odvozu
@@ -60,4 +60,9 @@ Obrázek 10 Vytvořit, upravit, odstranit auto
 ![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/C6052128-1579-4411-B1DA-72509B97F6F3.png)
 Obrázek 11 Vytvořit, upravit, odstranit klienta
 
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/)
+Obrázek 12 Zobrazit objednávky pro daného poskytovatele odvozu
+
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/)
+Obrázek 13 Zobrazit výsledky vyhledávání
 ### Konvence
