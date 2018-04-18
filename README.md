@@ -31,10 +31,10 @@ Projektový adresář aplikace má strukturu klasického Maven projektu v kontex
 | src/test/resources | obsahuje zdroje nezbytné pro testy |
 ### Návrh uživatelského rozhraní
 
-![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/89CE885C-E851-4006-999B-8AC3581EB973.png)
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/59E18C07-5293-4E91-81B2-F367704906F4.png)
 Obrázek 3 Přihlášení
 
-![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/59E18C07-5293-4E91-81B2-F367704906F4.png)
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/ACB2C566-ADB9-4C0D-B381-1003C3248687.png)
 Obrázek 4 Úvodní obrazovka pro pracovníka agentury
 
 ![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/0EE5B609-DAA3-4DAB-8991-9B060AB02CBF.png)
@@ -44,12 +44,15 @@ Obrázek 5 Vytvořit objednávku
 Obrázek 6 Změnit objednávku, odstranit objednávku
 
 ![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/C9213C33-B0B7-4278-8C3C-2165C1E98330.png)
-Obrázek 7
+Obrázek 7 Vypsat objednávky pro daného poskytovatele odvozu
+
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/89CE885C-E851-4006-999B-8AC3581EB973.png)
+Obrázek 8 Vytvořit poskytovatele odvozu
 
 ![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/AE63B77E-A909-4505-88BA-7441F4EBB20E.png)
+Obrázek 9 Upravit poskytovatele odvozu, odstranit poskytovatele odvozu
 
 
 
-![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/ACB2C566-ADB9-4C0D-B381-1003C3248687.png)
 
 ### Konvence
