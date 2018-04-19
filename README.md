@@ -21,7 +21,7 @@ Aplikace slouží na podporu činnosti agentury zajišťující odvozy aut a př
 Obrázek 1 Diagram užití
 
 ### Class Diagram
-![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/class.jpg "Class Diagram")
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/classdiagram.png "Class Diagram")
 Obrázek 2 Diagram tříd
 
 ### Struktura souborů
