@@ -12,7 +12,7 @@ Aplikace slouží na podporu činnosti agentury zajišťující odvozy aut a př
 * struktura souborů - Kolesár 
 * konvence - Loseeva, Šťastná
 * návrh uživatelského rozhraní - Stanová
-* implementace třídy 
+* implementace třídy Osoba - Loseeva
 * implementace třídy Auto, Klient - Šťastná
 * implementace třídy Odvoz - Kolesár
 * implementace třídy Vodič - Stanová
