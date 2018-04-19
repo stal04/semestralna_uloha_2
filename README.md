@@ -10,10 +10,10 @@ Aplikace slouží na podporu činnosti agentury zajišťující odvozy aut a př
 ### Seznam úkolů:
 * model případů užití – Stanová
 * diagram tříd - Loseeva, Šťastná
-* 
-*
-*
-*
+* struktura souborů - Stanová 
+* konvence - Loseeva
+* návrh uživatelského rozhraní - Stanová
+* návrh architektury - Kolesár
 *
 *
 ### Use Case Diagram
