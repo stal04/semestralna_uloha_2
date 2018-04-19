@@ -1,5 +1,4 @@
-
-# Tým: Odvez mě(16:15) 
+# Tým: Odvez mě (ČT 16.15) 
 ### Seznam členů týmu:
 * Kolesár Matej
 * Loseeva Julia
@@ -17,7 +16,7 @@ Aplikace slouží na podporu činnosti agentury zajišťující odvozy aut a př
 *
 *
 ### Use Case Diagram
-![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/UseCase%Diagram0.png "Use Case Diagram")
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/usecase.jpg "Use Case Diagram")
 Obrázek 1 Diagram užití
 
 ### Class Diagram
