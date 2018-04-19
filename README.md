@@ -21,6 +21,9 @@ Aplikace slouží na podporu činnosti agentury zajišťující odvozy aut a př
 Obrázek 1 Diagram užití
 
 ### Class Diagram
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/class.jpg "Class Diagram")
+Obrázek 2 Diagram tříd
+
 ### Struktura souborů
 Projektový adresář aplikace má strukturu klasického Maven projektu v kontextu architektury MVC, jazyka Java a frameworku JavaFX.
 
