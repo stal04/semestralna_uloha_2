@@ -70,9 +70,10 @@ Obrázek 12 Zobrazit objednávky pro daného poskytovatele odvozu
 Obrázek 13 Zobrazit výsledky vyhledávání
 
 ### Konvence
-Budeme se řídit konvencemi ze stránky https://java.vse.cz/4it101/Konvence.
-* Pojmenování tříd, metod a proměnných
-* Formátování
-* Dokumentace a komentáře
+ * Konvence formátu, konvence pojmenovávání tříd, metod, proměnných a konvence tvorby komentářů a dokumentace budeme čerpat z https://java.vse.cz/4it101/Konvence.
+ * Aplikace i zdrojový kód budou v českém jazyce.
+ *
+ 
+
 
 
