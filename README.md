@@ -70,3 +70,5 @@ Obrázek 12 Zobrazit objednávky pro daného poskytovatele odvozu
 Obrázek 13 Zobrazit výsledky vyhledávání
 
 ### Konvence
+Budeme se řídit konvencemize stránky java.vse.cz https://java.vse.cz/4it101/Konvence.
+
