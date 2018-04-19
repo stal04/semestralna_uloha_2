@@ -9,12 +9,13 @@ Aplikace slouží na podporu činnosti agentury zajišťující odvozy aut a př
 ### Seznam úkolů:
 * model případů užití – Stanová
 * diagram tříd - Loseeva, Šťastná
-* struktura souborů - Stanová 
+* struktura souborů - Kolesár 
 * konvence - Loseeva, Šťastná
 * návrh uživatelského rozhraní - Stanová
-* návrh architektury - Kolesár
-*
-*
+* implementace třídy 
+* implementace třídy Auto, Klient - Šťastná
+* implementace třídy Odvoz - Kolesár
+* implementace třídy Vodič - Stanová
 ### Use Case Diagram
 ![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/usecase.jpg "Use Case Diagram")
 Obrázek 1 Diagram užití
