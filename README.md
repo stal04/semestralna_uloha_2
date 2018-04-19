@@ -71,4 +71,8 @@ Obrázek 13 Zobrazit výsledky vyhledávání
 
 ### Konvence
 Budeme se řídit konvencemi ze stránky https://java.vse.cz/4it101/Konvence.
+* Pojmenování tříd a metod proměnných
+* Formátování
+* Dokumentace a komentáře
+
 
