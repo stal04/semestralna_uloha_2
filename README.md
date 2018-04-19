@@ -17,7 +17,7 @@ Aplikace slouží na podporu činnosti agentury zajišťující odvozy aut a př
 *
 *
 ### Use Case Diagram
-![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/UseCase%20Diagram0.jpg "Use Case Diagram")
+![Alt text](https://github.com/kolesko/semestralna_uloha_2/blob/master/UseCase%Diagram0.png "Use Case Diagram")
 Obrázek 1 Diagram užití
 
 ### Class Diagram
