@@ -71,8 +71,8 @@ Obrázek 13 Zobrazit výsledky vyhledávání
 
 ### Konvence
  * Konvence formátu, konvence pojmenovávání tříd, metod, proměnných a konvence tvorby komentářů a dokumentace budeme čerpat z https://java.vse.cz/4it101/Konvence.
- * Aplikace i zdrojový kód budou v českém jazyce.
- *
+ * Aplikace i zdrojový kód budou v anglickém jazyce.
+ * Dokumentaci budeme psát přímo s psaním metod.
  
 
 
